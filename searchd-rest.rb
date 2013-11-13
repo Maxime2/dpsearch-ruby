@@ -34,7 +34,7 @@ response = RestClient.get('http://inet-sochi.ru:7003/', {:params => {
                    :m => _m, 
                    'GroupBysite' => _GroupBySite, 
                    :tmplt => _tmplt, 
-                   :s => 'IRPD', 
+                   :s => _s, 
                    :q => _q
                  }}){ |response, request, result, &block|
 
