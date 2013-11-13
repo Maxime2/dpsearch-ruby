@@ -56,4 +56,4 @@ result['responseData']['results'].each { |pos|
 }
 
 print " ** Total #{result['responseData']['found']} documents found in #{result['responseData']['time']} sec."
-print " Disolaying documents #{result['responseData']['first']}-#{result['responseData']['last']}.\n"
+print " Displaying documents #{result['responseData']['first']}-#{result['responseData']['last']}.\n"
