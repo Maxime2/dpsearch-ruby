@@ -1,5 +1,5 @@
-dpsearch-samples
-================
+dpsearch-ruby
+=============
 
 Samples of using DataparkSearch Engine
 
